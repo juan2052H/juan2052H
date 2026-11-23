@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- Para agregar LinkedIn, pega aquí:
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  -->
+  <a href="https://www.linkedin.com/in/juanjose-roman-bedoya-15119b292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:juanchoromanbedoya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=juan2052H&style=for-the-badge&color=0e75b6&label=Visitas" alt="Visitas">
 </p>
