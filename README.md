@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Juan José Román Bedoya 👋</h1>
 <p align="center">
-  <b>Estudiante de desarrollo de software</b> · Backend con Java y Spring Boot · Aplicaciones web con Node.js
+  <b>Estudiante de desarrollo de software</b> · Backend con Java y Spring Boot · Aplicaciones web con Node.js y React · Python
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,docker,nodejs,js,html,css,git,github,githubactions&perline=12" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,sqlite,docker,nodejs,express,react,js,python,html,css,git,github,githubactions&perline=8" alt="Tecnologías">
 </p>
 
 ---
@@ -34,6 +34,8 @@
 |---|---|---|
 | 💰 **[FinanzasApp](https://github.com/juan2052H/FinanzasApp)** | Aplicación de finanzas personales y del hogar. Cliente de escritorio que funciona sin conexión o conectado a una API REST con hogares compartidos, roles e invitaciones. Incluye instalador para Windows, Docker Compose, CI, documentación de arquitectura, ADRs y plan de calidad. | Java 25 · Swing · Spring Boot · PostgreSQL · Docker · GitHub Actions |
 | 🏢 **[Apartaestudios](https://github.com/juan2052H/pag-web-apartaestudios)** | Sitio para publicar apartaestudios en arriendo, con panel administrativo (contratos, pagos, analítica) y portal privado para inquilinos. Hecho **sin dependencias externas**, con pruebas automatizadas y recuperación de contraseña por correo. | Node.js · JavaScript · HTML/CSS · Render |
+| 🌲 **[Sistema Forestal](https://github.com/juan2052H/sistema-forestal)** | Gestión forestal sobre mapas interactivos: zonas y subzonas con validación espacial, catálogo de especies, trazabilidad de árboles y simulador de cable vía. Proyecto en equipo. | React · Leaflet · Node.js · Express · PostgreSQL · SQLite |
+| 🤖 **[Asistente Inteligente](https://github.com/juan2052H/asistente-inteligente)** | Asistente de escritorio por voz: lee la pantalla con OCR, gestiona un calendario, responde preguntas con IA y habla las respuestas. Proyecto en equipo. | Python · SpeechRecognition · OpenCV · OpenAI |
 | 💱 **[Casa de Cambio](https://github.com/juan2052H/casa_cambio)** | App de escritorio para calcular compra/venta de divisas USD → COP, con reglas de comisión, historial de transacciones y ejecutable `.exe` nativo. | Java · Swing · Maven · Launch4j |
 | 🥗 **[NutriGuard](https://github.com/juan2052H/web_samuel_2)** | Web de planes nutricionales para personal policial según el turno: calculadora calórica, planes semanales, favoritos y modo oscuro. | HTML · CSS · JavaScript |
 
