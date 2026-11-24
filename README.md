@@ -24,7 +24,7 @@
 ### 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,php,c,cpp,js,nodejs,express,react,html,css&perline=12" alt="Lenguajes y frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php,c,cpp,js,ts,nodejs,express,react,threejs,tailwind,html,css&perline=15" alt="Lenguajes y frameworks"><br>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,githubactions,arduino,figma,maven&perline=12" alt="Bases de datos y herramientas">
 </p>
 
@@ -34,6 +34,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🐕 **[VetAnatomía 3D](https://github.com/juan2052H/veterinaria-3D)** | Laboratorio virtual de anatomía veterinaria (primera especie: perro). Visor 3D con disección por capas, 12 sistemas activables, cortes anatómicos, rayos X y aislamiento; más de 120 fichas anatómicas; cuestionarios con identificación de estructuras sobre el modelo, notas de 0 a 5 y exportación a PDF; seguimiento del progreso e importador de modelos GLB. El modelo 3D es procedural y está marcado como *no validado*. | React · TypeScript · Three.js · React Three Fiber · Tailwind · Vitest |
 | 💰 **[FinanzasApp](https://github.com/juan2052H/FinanzasApp)** | Aplicación de finanzas personales y del hogar. Cliente de escritorio que funciona sin conexión o conectado a una API REST con hogares compartidos, roles e invitaciones. Incluye instalador para Windows, Docker Compose, CI, documentación de arquitectura, ADRs y plan de calidad. | Java 25 · Swing · Spring Boot · PostgreSQL · Docker · GitHub Actions |
 | 🌲 **[Sistema Forestal](https://github.com/juan2052H/sistema-forestal)** | Gestión forestal sobre mapas interactivos: zonas y subzonas con validación espacial, catálogo de especies, trazabilidad de árboles y simulador de cable vía. Proyecto en equipo. | React · Leaflet · Node.js · Express · PostgreSQL · SQLite |
 | 🏢 **[Apartaestudios](https://github.com/juan2052H/pag-web-apartaestudios)** | Sitio para publicar apartaestudios en arriendo, con panel administrativo (contratos, pagos, analítica) y portal privado para inquilinos. Hecho **sin dependencias externas**, con pruebas automatizadas y recuperación de contraseña por correo. | Node.js · JavaScript · HTML/CSS · Render |
